@@ -1,0 +1,8 @@
+HeliumModels/HeliumModel/HeliumModel.C
+HeliumModels/HeliumModel/HeliumModelNew.C
+HeliumModels/Helium/Helium.C
+HeliumLibrary/HeliumLibrary.C
+
+singlePhaseHeliumTransportModel/singlePhaseHeliumTransportModel.C
+
+LIB = $(FOAM_USER_LIBBIN)/libincompressibleHeliumTransportModelsPB
